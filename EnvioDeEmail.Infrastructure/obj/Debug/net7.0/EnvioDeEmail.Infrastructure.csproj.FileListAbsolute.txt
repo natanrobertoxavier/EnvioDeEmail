@@ -1,0 +1,11 @@
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\bin\Debug\net7.0\EnvioDeEmail.Infrastructure.deps.json
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\bin\Debug\net7.0\EnvioDeEmail.Infrastructure.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\bin\Debug\net7.0\EnvioDeEmail.Infrastructure.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\obj\Debug\net7.0\EnvioDeEmail.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\obj\Debug\net7.0\EnvioDeEmail.Infrastructure.AssemblyInfoInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\obj\Debug\net7.0\EnvioDeEmail.Infrastructure.AssemblyInfo.cs
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\obj\Debug\net7.0\EnvioDeEmail.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\obj\Debug\net7.0\EnvioDeEmail.Infrastructure.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\obj\Debug\net7.0\refint\EnvioDeEmail.Infrastructure.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\obj\Debug\net7.0\EnvioDeEmail.Infrastructure.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Infrastructure\obj\Debug\net7.0\ref\EnvioDeEmail.Infrastructure.dll

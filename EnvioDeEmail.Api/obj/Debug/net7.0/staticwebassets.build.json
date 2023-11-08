@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Yh+60NEoFDcFssE2aI29sKxY3LU1LcwSOLlqOQP/Smg=",
+  "Source": "EnvioDeEmail.Api",
+  "BasePath": "_content/EnvioDeEmail.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

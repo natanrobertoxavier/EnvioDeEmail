@@ -1,0 +1,11 @@
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\bin\Debug\net7.0\EnvioDeEmail.Communication.deps.json
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\bin\Debug\net7.0\EnvioDeEmail.Communication.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\bin\Debug\net7.0\EnvioDeEmail.Communication.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.AssemblyInfoInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.AssemblyInfo.cs
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.csproj.CoreCompileInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\refint\EnvioDeEmail.Communication.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\ref\EnvioDeEmail.Communication.dll

@@ -1,0 +1,11 @@
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\bin\Debug\net7.0\EnvioDeEmail.Application.deps.json
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\bin\Debug\net7.0\EnvioDeEmail.Application.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\bin\Debug\net7.0\EnvioDeEmail.Application.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail.Application.AssemblyInfoInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail.Application.AssemblyInfo.cs
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail.Application.csproj.CoreCompileInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail.Application.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\refint\EnvioDeEmail.Application.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail.Application.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\ref\EnvioDeEmail.Application.dll
