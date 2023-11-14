@@ -9,3 +9,4 @@ C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\refint\EnvioDeEmail.Application.dll
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail.Application.pdb
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\ref\EnvioDeEmail.Application.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Application\obj\Debug\net7.0\EnvioDeEmail.Application.csproj.AssemblyReference.cache

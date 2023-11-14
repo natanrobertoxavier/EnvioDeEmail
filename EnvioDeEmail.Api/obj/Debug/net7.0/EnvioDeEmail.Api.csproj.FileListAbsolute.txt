@@ -31,3 +31,10 @@ C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\obj\Debug\net7.0\refint\EnvioDeEmail.
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\obj\Debug\net7.0\EnvioDeEmail.Api.pdb
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\obj\Debug\net7.0\EnvioDeEmail.Api.genruntimeconfig.cache
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\obj\Debug\net7.0\ref\EnvioDeEmail.Api.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\bin\Debug\net7.0\EnvioDeEmail.Application.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\bin\Debug\net7.0\EnvioDeEmail.Application.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\bin\Debug\net7.0\EnvioDeEmail.Communication.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Api\bin\Debug\net7.0\EnvioDeEmail.Communication.pdb
