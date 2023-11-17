@@ -8,8 +8,9 @@ namespace EnvioDeEmail.Api.Controllers;
 public class EmailController : EnvioDeEmailController
 {
     [HttpPost]
+    [Route("Send")]
     [ProducesResponseType(typeof(ResponseSendMailJson), StatusCodes.Status200OK)]
-    public async Task<IActionResult> Send(
+    public async Task<IActionResult> SendMail(
         [FromServices] ISendMailUseCase useCase,
         [FromBody] RequestSendMailJson request)
     {

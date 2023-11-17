@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnvioDeEmail.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b544b80ebaaa9e2e31da5ebde26480aa485d9d85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+291f8988914e600fa78e696973444a182e00550c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnvioDeEmail.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnvioDeEmail.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

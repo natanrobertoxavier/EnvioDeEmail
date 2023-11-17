@@ -22,16 +22,13 @@ public class MailSender : IMailOnlySender
         mailMessage.IsBodyHtml = mail.IsHtml;
         mailMessage.Priority = MailPriority.Normal;
 
-        //mailMessage.
-
         AddEmailsToMailMessage(mailMessage, mail);
 
         using SmtpClient smtp = new(SmtpAdress, PortNumber);
-
         smtp.EnableSsl = true;
         smtp.Credentials = new NetworkCredential(EmailFromAdress, Password);
 
-        smtp.UseDefaultCredentials = true;
+        smtp.UseDefaultCredentials = false;
         smtp.Send(mailMessage);
 
         return new ResponseSendMailJson
