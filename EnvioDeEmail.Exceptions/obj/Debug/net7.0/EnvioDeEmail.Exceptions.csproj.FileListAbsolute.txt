@@ -7,6 +7,7 @@ C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Exceptions\obj\Debug\net7.0\EnvioDeEmail.
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Exceptions\obj\Debug\net7.0\EnvioDeEmail.Exceptions.AssemblyInfoInputs.cache
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Exceptions\obj\Debug\net7.0\EnvioDeEmail.Exceptions.AssemblyInfo.cs
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Exceptions\obj\Debug\net7.0\EnvioDeEmail.Exceptions.csproj.CoreCompileInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Exceptions\obj\Debug\net7.0\EnvioDeEmail.Exceptions.sourcelink.json
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Exceptions\obj\Debug\net7.0\EnvioDeEmail.Exceptions.dll
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Exceptions\obj\Debug\net7.0\refint\EnvioDeEmail.Exceptions.dll
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Exceptions\obj\Debug\net7.0\EnvioDeEmail.Exceptions.pdb

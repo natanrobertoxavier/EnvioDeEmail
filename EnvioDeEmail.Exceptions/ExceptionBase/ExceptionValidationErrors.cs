@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace ControleDeMateriais.Exceptions.ExceptionBase;
+namespace EnvioDeEmail.Exceptions.ExceptionBase;
 public class ExceptionValidationErrors : EnvioDeEmailException
 {
     public List<string> MessagesErrors { get; set; }
@@ -9,7 +9,7 @@ public class ExceptionValidationErrors : EnvioDeEmailException
         MessagesErrors = messageErrors;
     }
 
-    protected ExceptionValidationErrors(SerializationInfo info, StreamingContext context) : base(info, context) 
+    protected ExceptionValidationErrors(SerializationInfo info, StreamingContext context) : base(info, context)
     {
     }
 }

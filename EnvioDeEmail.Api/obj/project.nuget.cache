@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bXw3PSclVT0+Ru0KMHxTaWvxZRuIGP5avB1/xJ5/QHijQYyBDakWDRjOn+28+y6BZdXeXvkJoyu+kuYRlzLAow==",
+  "dgSpecHash": "7pQfGInR0m1jHXvh25cXnSoZ0RPYP0dt1TpBzh9U7yAqODvBnUb202KZVYlrNXqL4f8DA3T0lPQn8uPP1aEeaA==",
   "success": true,
   "projectFilePath": "C:\\Code\\.net\\EnvioDeEmail\\EnvioDeEmail.Api\\EnvioDeEmail.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\natan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
     "C:\\Users\\natan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\natan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\natan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\natan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

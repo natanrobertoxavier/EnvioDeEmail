@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ControleDeMateriais.Exceptions.ExceptionBase {
+namespace EnvioDeEmail.Exceptions.ExceptionBase {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace ControleDeMateriais.Exceptions.ExceptionBase {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ControleDeMateriais.Exceptions.ExceptionBase.ErrorMessagesResource", typeof(ErrorMessagesResource).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("EnvioDeEmail.Exceptions.ExceptionBase.ErrorMessagesResource", typeof(ErrorMessagesResource).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,83 +61,47 @@ namespace ControleDeMateriais.Exceptions.ExceptionBase {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a E-mail já cadastrado..
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Informe o assunto do e-mail..
         /// </summary>
-        public static string EMAIL_CADASTRADO {
+        public static string ASSUNTO_EM_BRANCO {
             get {
-                return ResourceManager.GetString("EMAIL_CADASTRADO", resourceCulture);
+                return ResourceManager.GetString("ASSUNTO_EM_BRANCO", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Informe o e-mail..
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Corpo e-mail em branco..
         /// </summary>
-        public static string EMAIL_USUARIO_EM_BRANCO {
+        public static string CORPO_EMAIL_EM_BRANCO {
             get {
-                return ResourceManager.GetString("EMAIL_USUARIO_EM_BRANCO", resourceCulture);
+                return ResourceManager.GetString("CORPO_EMAIL_EM_BRANCO", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a E-mail informado inválido..
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Informe ao menos um destinatário..
         /// </summary>
-        public static string EMAIL_USUARIO_INVALIDO {
+        public static string EMAIL_DESTINATARIO_EM_BRANCO {
             get {
-                return ResourceManager.GetString("EMAIL_USUARIO_INVALIDO", resourceCulture);
+                return ResourceManager.GetString("EMAIL_DESTINATARIO_EM_BRANCO", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Erro desconhecido..
+        ///   Consulta uma cadeia de caracteres localizada semelhante a E-mail do destinatário inválido..
         /// </summary>
-        public static string ERRO_DESCONHECIDO {
+        public static string EMAIL_DESTINATARIO_INVALIDO {
             get {
-                return ResourceManager.GetString("ERRO_DESCONHECIDO", resourceCulture);
+                return ResourceManager.GetString("EMAIL_DESTINATARIO_INVALIDO", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Informe o nome..
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Erro interno do servidor: .
         /// </summary>
-        public static string NOME_USUARIO_EM_BRANCO {
+        public static string ERRO_INTERNO_SERVER {
             get {
-                return ResourceManager.GetString("NOME_USUARIO_EM_BRANCO", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a A senha deve conter ao menos seis caracteres..
-        /// </summary>
-        public static string SENHA_MINIMO_SEIS_CARACTERES {
-            get {
-                return ResourceManager.GetString("SENHA_MINIMO_SEIS_CARACTERES", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Informe a senha..
-        /// </summary>
-        public static string SENHA_USUARIO_EM_BRANCO {
-            get {
-                return ResourceManager.GetString("SENHA_USUARIO_EM_BRANCO", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Informe o telefone..
-        /// </summary>
-        public static string TELEFONE_USUARIO_EM_BRANCO {
-            get {
-                return ResourceManager.GetString("TELEFONE_USUARIO_EM_BRANCO", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Telefone informado é inválido..
-        /// </summary>
-        public static string TELEFONE_USUARIO_INVALIDO {
-            get {
-                return ResourceManager.GetString("TELEFONE_USUARIO_INVALIDO", resourceCulture);
+                return ResourceManager.GetString("ERRO_INTERNO_SERVER", resourceCulture);
             }
         }
     }

@@ -14,6 +14,8 @@
   <ItemGroup>
     <ProjectReference Include="..\EnvioDeEmail.Application\EnvioDeEmail.Application.csproj" />
     <ProjectReference Include="..\EnvioDeEmail.Communication\EnvioDeEmail.Communication.csproj" />
+    <ProjectReference Include="..\EnvioDeEmail.Domain\EnvioDeEmail.Domain.csproj" />
+    <ProjectReference Include="..\EnvioDeEmail.Infrastructure\EnvioDeEmail.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

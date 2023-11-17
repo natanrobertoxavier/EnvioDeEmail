@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "k9HNrSInhoq7ll70lpdG8Bu5gCStyrsvner4BV1thvCa7T6q5nmp2w/e4OJMUTx9IMBZDST8vdnwYiKsQiSkYw==",
+  "dgSpecHash": "ygVD+v+u3Aj6De0/jtfXDgjZAZWHTlQdkPbfMocuhs80y4RViU4KnSv4MoHX/V6LA6oDO7OP/5BVjQk4E+02HQ==",
   "success": true,
   "projectFilePath": "C:\\Code\\.net\\EnvioDeEmail\\EnvioDeEmail.Application\\EnvioDeEmail.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\natan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\natan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\natan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\natan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\natan\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"

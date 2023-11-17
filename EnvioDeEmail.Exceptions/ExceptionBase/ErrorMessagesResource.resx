@@ -117,31 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="EMAIL_CADASTRADO" xml:space="preserve">
-    <value>E-mail já cadastrado.</value>
+  <data name="ASSUNTO_EM_BRANCO" xml:space="preserve">
+    <value>Informe o assunto do e-mail.</value>
   </data>
-  <data name="EMAIL_USUARIO_EM_BRANCO" xml:space="preserve">
-    <value>Informe o e-mail.</value>
+  <data name="CORPO_EMAIL_EM_BRANCO" xml:space="preserve">
+    <value>Corpo e-mail em branco.</value>
   </data>
-  <data name="EMAIL_USUARIO_INVALIDO" xml:space="preserve">
-    <value>E-mail informado inválido.</value>
+  <data name="EMAIL_DESTINATARIO_EM_BRANCO" xml:space="preserve">
+    <value>Informe ao menos um destinatário.</value>
   </data>
-  <data name="ERRO_DESCONHECIDO" xml:space="preserve">
-    <value>Erro desconhecido.</value>
+  <data name="EMAIL_DESTINATARIO_INVALIDO" xml:space="preserve">
+    <value>E-mail do destinatário inválido.</value>
   </data>
-  <data name="NOME_USUARIO_EM_BRANCO" xml:space="preserve">
-    <value>Informe o nome.</value>
-  </data>
-  <data name="SENHA_MINIMO_SEIS_CARACTERES" xml:space="preserve">
-    <value>A senha deve conter ao menos seis caracteres.</value>
-  </data>
-  <data name="SENHA_USUARIO_EM_BRANCO" xml:space="preserve">
-    <value>Informe a senha.</value>
-  </data>
-  <data name="TELEFONE_USUARIO_EM_BRANCO" xml:space="preserve">
-    <value>Informe o telefone.</value>
-  </data>
-  <data name="TELEFONE_USUARIO_INVALIDO" xml:space="preserve">
-    <value>Telefone informado é inválido.</value>
+  <data name="ERRO_INTERNO_SERVER" xml:space="preserve">
+    <value>Erro interno do servidor: </value>
   </data>
 </root>

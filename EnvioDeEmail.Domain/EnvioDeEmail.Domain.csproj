@@ -6,4 +6,8 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EnvioDeEmail.Communication\EnvioDeEmail.Communication.csproj" />
+  </ItemGroup>
+
 </Project>

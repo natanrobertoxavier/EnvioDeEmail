@@ -5,6 +5,7 @@ C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEma
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.AssemblyInfoInputs.cache
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.AssemblyInfo.cs
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.csproj.CoreCompileInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.sourcelink.json
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.dll
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\refint\EnvioDeEmail.Communication.dll
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Communication\obj\Debug\net7.0\EnvioDeEmail.Communication.pdb

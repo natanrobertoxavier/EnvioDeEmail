@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "EnvioDeEmail.Domain/1.0.0": {
+        "dependencies": {
+          "EnvioDeEmail.Communication": "1.0.0"
+        },
         "runtime": {
           "EnvioDeEmail.Domain.dll": {}
+        }
+      },
+      "EnvioDeEmail.Communication/1.0.0": {
+        "runtime": {
+          "EnvioDeEmail.Communication.dll": {}
         }
       }
     }
   },
   "libraries": {
     "EnvioDeEmail.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnvioDeEmail.Communication/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

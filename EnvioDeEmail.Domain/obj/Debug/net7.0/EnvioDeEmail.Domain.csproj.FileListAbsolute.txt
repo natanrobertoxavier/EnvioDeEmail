@@ -1,10 +1,15 @@
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\bin\Debug\net7.0\EnvioDeEmail.Domain.deps.json
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\bin\Debug\net7.0\EnvioDeEmail.Domain.dll
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\bin\Debug\net7.0\EnvioDeEmail.Domain.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\bin\Debug\net7.0\EnvioDeEmail.Communication.dll
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\bin\Debug\net7.0\EnvioDeEmail.Communication.pdb
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.csproj.AssemblyReference.cache
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.AssemblyInfoInputs.cache
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.AssemblyInfo.cs
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.csproj.CoreCompileInputs.cache
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.sourcelink.json
+C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.csproj.CopyComplete
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.dll
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\refint\EnvioDeEmail.Domain.dll
 C:\Code\.net\EnvioDeEmail\EnvioDeEmail.Domain\obj\Debug\net7.0\EnvioDeEmail.Domain.pdb
